@@ -1,0 +1,114 @@
+(.spade4) PS W:\1.WAGSLIFE\Meus Estudos\PRODEI\PRODEI012 - Sistemas Multiagente\TRABALHO\PROJ> & "W:/1.WAGSLIFE/Meus Estudos/PRODEI/PRODEI012 - Sistemas Multiagente/TRABALHO/PROJ/election_sim/.spade4/Scripts/python.exe" "w:/1.WAGSLIFE/Meus Estudos/PRODEI/PRODEI012 - Sistemas Multiagente/TRABALHO/PROJ/election_sim/python_spade/run_spade_sim.py" 
+
+--- 🚀 Iniciando a Simulação Multiagente (PRODEI012) ---
+Escala: 10 Eleitores, 3 Candidatos a promover
+[SETUP] Distribuição Partidária Inicial: Counter({'PED': 3, 'PDD': 3, 'PCE': 2, 'PEE': 1, 'PDE': 1})
+[AUTHORITY_1] Agente Autoridade Eleitoral iniciado.
+[BOOT] AUTHORITY_1 => start() OK (tentativa 1)
+[MEDIA_1] Agente Mídia iniciado.
+[BOOT] MEDIA_1 => start() OK (tentativa 1)
+[VOTER_1] Iniciado: PED (Ideologia: 2.00)
+[BOOT] VOTER_1 => start() OK (tentativa 1)
+[VOTER_2] Iniciado: PDD (Ideologia: 1.00)
+[BOOT] VOTER_2 => start() OK (tentativa 1)
+[VOTER_5] Iniciado: PEE (Ideologia: -2.00)
+[BOOT] VOTER_5 => start() OK (tentativa 1)
+[VOTER_4] Iniciado: PCE (Ideologia: 0.00)
+[BOOT] VOTER_4 => start() OK (tentativa 1)
+[VOTER_3] Iniciado: PCE (Ideologia: 0.00)
+[BOOT] VOTER_3 => start() OK (tentativa 1)
+[VOTER_6] Iniciado: PDD (Ideologia: 1.00)
+[VOTER_7] Iniciado: PED (Ideologia: 2.00)
+[BOOT] VOTER_6 => start() OK (tentativa 1)
+[BOOT] VOTER_7 => start() OK (tentativa 1)
+[VOTER_8] Iniciado: PDE (Ideologia: -1.00)
+[BOOT] VOTER_8 => start() OK (tentativa 1)
+[VOTER_10] Iniciado: PED (Ideologia: 2.00)
+[BOOT] VOTER_10 => start() OK (tentativa 1)
+[VOTER_9] Iniciado: PDD (Ideologia: 1.00)
+[BOOT] VOTER_9 => start() OK (tentativa 1)
+[SUPERVISOR_1] Supervisor iniciado. Controle Temporal Cíclico.
+[SUPERVISOR_1] Aguardando 3.0s para iniciar o ciclo de TICKs...
+[BOOT] SUPERVISOR_1 => start() OK (tentativa 1)
+
+[EXEC] Simulação rodará automaticamente até T51 por 41.0 segundos.
+[SUPERVISOR_1] AutoStart concluído. Iniciando T0.
+[SUPERVISOR_1] TICK 0 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 1 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 2 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 3 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 4 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 5 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 6 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 7 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 8 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 9 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] TICK 10 de 51. Fase: Pré-Campanha.
+[SUPERVISOR_1] T10: Coletando Engagement e Promovendo Candidatos...
+[SUPERVISOR_1] T10: recebidas 10/10 respostas de engagement.
+[SUPERVISOR_1] CANDIDATOS PROMOVIDOS (JIDs): voter_7@localhost, voter_2@localhost, voter_9@localhost
+[SUPERVISOR_1] Transição para FASE CAMPANHA (T11).
+[VOTER_2] *** PROMOVIDO A CANDIDATO ***
+[VOTER_7] *** PROMOVIDO A CANDIDATO ***
+[VOTER_9] *** PROMOVIDO A CANDIDATO ***
+[MEDIA_1] Candidatos conhecidos: 3
+[AUTHORITY_1] Candidatos registrados: 3
+[SUPERVISOR_1] TICK 11 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 12 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 13 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 14 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 15 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 16 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 17 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 18 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 19 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 20 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 21 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 22 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 23 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 24 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 25 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 26 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 27 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 28 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 29 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 30 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 31 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 32 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 33 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 34 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 35 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 36 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 37 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 38 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 39 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 40 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 41 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 42 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 43 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 44 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 45 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 46 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 47 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 48 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 49 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 50 de 51. Fase: Campanha Eleitoral.
+[SUPERVISOR_1] TICK 51 de 51. Fase: Dia da Eleição.
+[SUPERVISOR_1] T51 - Dia da Eleição. Solicitando Votos e Contagem.
+[AUTHORITY_1] Recebido START_COUNT. AGUARDANDO VOTOS POR 5 SEGUNDOS...
+[VOTER_1] VOTO FINAL DECIDIDO: VOTER_7
+[VOTER_2] VOTO FINAL DECIDIDO: VOTER_2
+[VOTER_3] VOTO FINAL DECIDIDO: VOTER_7
+[VOTER_4] VOTO FINAL DECIDIDO: VOTER_9
+[VOTER_5] VOTO FINAL DECIDIDO: VOTER_7
+[VOTER_6] VOTO FINAL DECIDIDO: VOTER_2
+[VOTER_7] VOTO FINAL DECIDIDO: VOTER_7
+[VOTER_8] VOTO FINAL DECIDIDO: VOTER_7
+[VOTER_9] VOTO FINAL DECIDIDO: VOTER_9
+[VOTER_10] VOTO FINAL DECIDIDO: VOTER_7
+[SUPERVISOR_1] *** FASE DE TICKING CONCLUÍDA ***
+[AUTHORITY_1] RESULTADOS FINAIS ENVIADOS: {'voter_7@localhost': 6, 'voter_2@localhost': 2, 'voter_9@localhost': 2} (10 votos totais recebidos).
+[SUPERVISOR_1] 🏆 RESULTADOS OFICIAIS RECEBIDOS: {"voter_7@localhost": 6, "voter_2@localhost": 2, "voter_9@localhost": 2}
+
+[SHUTDOWN] Encerrando todos os agentes...
+[SHUTDOWN] Simulação Encerrada.

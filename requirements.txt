@@ -1,0 +1,4 @@
+﻿pyswip==0.3.3
+networkx==3.3
+pandas==2.2.2
+matplotlib==3.9.0
