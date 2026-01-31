@@ -16,3 +16,9 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Ignorar pasta de backups antigos
+OLDS/
+
+# Ignorar resultados em Word
+RESULTS/RESULTS.docx
