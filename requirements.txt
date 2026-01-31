@@ -1,4 +1,10 @@
-﻿pyswip==0.3.3
+﻿# Agentes e Frameworks
+spade==3.3.2
+pyswip==0.3.3
+
+# Manipulação de Dados e Redes
 networkx==3.3
 pandas==2.2.2
+
+# Visualização
 matplotlib==3.9.0
